@@ -1,3 +1,10 @@
+ 
+//  O que precisamos fazer? -Quando o usuário clicar no botão "Aplicar filtros", vamos filtrar as cartas baseados na categotia e no preço máximo selecionados.
+//     Objetivo 1 - Criar a funcionalidade de filttrar as cartas
+//         passo 1 - pegar o botão de aplicar filtros do HTML e mandar pro JS
+//         passo 2 - escutar o clique do botão de aplicar filtros 
+//         passo 3 - pegar os valores do campo de categorias e preço
+//         passo 4 - pra cada carta, verificar se ela deve ser mostrada ou escondida com base nos filtros que a pessoa digitou
 
 
 // const botaoFiltrar = document.querySelector('.btn-filtrar');
